@@ -1,0 +1,28 @@
+.timer {
+  width: 50px;
+  text-align: center;
+  font-size: 2rem;
+  background-color: #86f986;
+}
+
+.templateLetters, .userLetters{
+  font-size: 20px;
+  margin-top: 20px;
+  font-family: sans-serif;
+}
+
+.templateLetters {
+	background-color: green;
+	color:#fff;
+}
+
+ button {
+  padding: 1rem;
+  font-size: 1.125rem;
+}
+
+.bestAttempt {
+  font-size: 20px;
+  background-color: red;
+}
+
